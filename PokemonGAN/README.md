@@ -1,5 +1,4 @@
 # PokeGAN using Pytorch
-------
 
 This is the project created with reference to the work done by [Moxiegushi's PokeGAN](https://github.com/moxiegushi/pokeGAN) which was based on Tensorflow while this project utilizes Pytorch to do the same. Apart from this PokeGAN uses all of the sprites used till Generation 8 (which is based on Galar-based evolution families).
 
