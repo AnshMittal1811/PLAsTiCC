@@ -7,14 +7,18 @@ The complete dataset is contained within the `data` folder of the repository. Th
 
 
 ### Generation
-##### 64 Image Generation during 50 epochs
-![50 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_training_50_epochs.gif "64 image Generation during 50 epochs")
+--
+
+##### Single Image Generation during 2600 epochs
+![2600 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_generation_after_2600_epochs.gif "2600 epochs")
+
 
 ##### 64 Image Generation results after 755 epochs
 ![755 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/fake_images-0755.png "64 image Generation results after 755 epochs")
 
-##### Single Image Generation during 2600 epochs
-![2600 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_generation_after_2600_epochs.gif "2600 epochs")
+
+##### 64 Image Generation during 50 epochs
+![50 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_training_50_epochs.gif "64 image Generation during 50 epochs")
 
 
 ### Real Image
