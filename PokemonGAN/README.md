@@ -7,7 +7,7 @@ The complete dataset is contained within the `data` folder of the repository. Th
 
 
 ### Generation
---
+------
 
 ##### Single Image Generation during 2600 epochs
 ![2600 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_generation_after_2600_epochs.gif "2600 epochs")
