@@ -18,16 +18,17 @@ Because it can't really discriminate between real and fake, the WGAN discriminat
 The generation was originally set to 10000 epochs. This process was truncated due to Google colab going out of RAM which inadvertently stopped the process at 2621 epochs.
 
 ##### Single Image Generation during 2600 epochs
-![2600 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_generation_after_2600_epochs.gif "2600 epochs")
+![2600 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/pokegans_generation_after_2600_epochs.gif "2600 epochs")
 
 
 ##### 64 Image Generation results after 755 epochs
-![755 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/fake_images-0755.png "64 image Generation results after 755 epochs")
+![755 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-0755.png "64 image Generation results after 755 epochs")
 
 
 ##### 64 Image Generation during 50 epochs
-![50 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/pokegans_training_50_epochs.gif "64 image Generation during 50 epochs")
+![50 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/pokegans_training_50_epochs.gif "64 image Generation during 50 epochs")
 
 
 ### Real Image
-![Real Image](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/PokemonGAN/Source/real_images.png "Real Image")
+------
+![Real Image](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/real_images.png "Real Image")
