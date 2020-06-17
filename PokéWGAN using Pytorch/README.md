@@ -17,8 +17,12 @@ Because it can't really discriminate between real and fake, the WGAN discriminat
 ------
 The generation was originally set to 10000 epochs. This process was truncated due to Google colab going out of RAM which inadvertently stopped the process at 2621 epochs.
 
-##### Single Image Generation during 2600 epochs
-![2600 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/pokegans_generation_after_2600_epochs.gif "2600 epochs")
+##### 64 Image Generation results after 2621 epochs
+![64 Image 2621 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png "64 Image 2621 epochs")
+
+
+##### Single Image Generation during 2621 epochs
+![1 Image 2621 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/pokegans_generation_after_2600_epochs.gif "1 Image 2621 epochs")
 
 
 ##### 64 Image Generation results after 755 epochs
