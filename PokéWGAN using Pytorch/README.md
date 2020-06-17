@@ -20,6 +20,9 @@ The generation was originally set to 10000 epochs. This process was truncated du
 ##### 64 Image Generation results after 2621 epochs
 ![64 Image 2621 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png "64 Image 2621 epochs")
 
+##### 64 Image Generation results over 2621 epochs
+![64 Image over 2621 epochs](https://youtu.be/tkRwoSm4AFA "64 Image over 2621 epochs")
+
 
 ##### Single Image Generation during 2621 epochs
 ![1 Image 2621 epochs](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/pokegans_generation_after_2600_epochs.gif "1 Image 2621 epochs")
