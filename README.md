@@ -6,4 +6,4 @@ This is my complete protfolio for the projects that I have completed using Pytor
 -----
 1. Generating Pokémons using PokéWGAN
 
-<img src="https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png" alt="Result#1" width="768"/>
+<img src="https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png" alt="Result#1" width="512"/>
