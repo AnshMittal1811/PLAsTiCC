@@ -5,4 +5,5 @@ This is my complete protfolio for the projects that I have completed using Pytor
 ## List of Projects and Result/Example
 -----
 1. Generating Pokémons using PokéWGAN
+
 ![Result#1](https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png "64 Image 2621 epochs")
