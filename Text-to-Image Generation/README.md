@@ -4,5 +4,5 @@
 
 ### Dataset
 ------
-We sselect 2 datasets for ths problem.
+We select 2 datasets for this problem.
 
