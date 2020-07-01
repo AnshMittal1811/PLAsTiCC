@@ -8,4 +8,6 @@ This is my complete protfolio for the projects that I have completed using Pytor
 
 <img src="https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png" alt="Result#1" width="512"/>
 
-2. To Do: Generating Images from Text using GANs
+### To Do:
+2. Generating Images from Text using GANs
+3. Generating Images from Speech using GANs
