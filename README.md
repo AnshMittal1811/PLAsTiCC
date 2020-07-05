@@ -10,4 +10,5 @@ This is my complete protfolio for the projects that I have completed using Pytor
 
 ### To Do:
 2. Generating Images from Text using GANs
-3. Generating Images from Speech using GANs
+3. Multimodal Systems
+4. Generating Images from Speech using GANs
