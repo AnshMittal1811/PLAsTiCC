@@ -1,6 +1,6 @@
 # PytorchProjectsPortfolio
 
-This is my complete protfolio for the projects that I have completed using Pytorch. These project have been listed below along with an example or results of that paarticular project which can help understand the main purpose of the projects completed.
+This is a complete protfolio for the projects that I have completed using Pytorch. These project have been listed below along with an example or results of that paarticular project which can help understand the main purpose of the projects completed.
 
 ## List of Projects and Result/Example
 -----
