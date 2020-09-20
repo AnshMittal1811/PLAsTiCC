@@ -12,4 +12,4 @@ This is a complete protfolio for the projects that I have completed using Pytorc
 2. Generating Images from Text using GANs (started)
 3. Multimodal Systems
 4. Generating Images from Speech using GANs
-5. Generating Images from voice 
+5. Generating Images from a Person's voice 
