@@ -9,7 +9,7 @@ This is a complete protfolio for the projects that I have completed using Pytorc
 <img src="https://github.com/AnshMittal1811/PytorchProjectsPortfolio/blob/master/Pok%C3%A9WGAN%20using%20Pytorch/Source/fake_images-2620.png" alt="Result#1" width="512"/>
 
 ### To Do:
-2. Generating Images from Text using GANs (started)
+2. Generating Images from Text using GANs (starting again)
 3. Multimodal Systems
 4. Generating Images from Speech using GANs
 5. Generating Images from a Person's voice 
